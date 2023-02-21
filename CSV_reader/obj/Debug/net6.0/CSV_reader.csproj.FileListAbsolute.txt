@@ -1,0 +1,15 @@
+C:\dev\szyperownia\21.02.2023\CSV_reader\CSV_reader\obj\Debug\net6.0\CSV_reader.csproj.AssemblyReference.cache
+C:\dev\szyperownia\21.02.2023\CSV_reader\CSV_reader\obj\Debug\net6.0\CSV_reader.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\szyperownia\21.02.2023\CSV_reader\CSV_reader\obj\Debug\net6.0\CSV_reader.AssemblyInfoInputs.cache
+C:\dev\szyperownia\21.02.2023\CSV_reader\CSV_reader\obj\Debug\net6.0\CSV_reader.AssemblyInfo.cs
+C:\dev\szyperownia\21.02.2023\CSV_reader\CSV_reader\obj\Debug\net6.0\CSV_reader.csproj.CoreCompileInputs.cache
+C:\dev\szyperownia\21.02.2023\CSV_reader\CSV_reader\bin\Debug\net6.0\CSV_reader.exe
+C:\dev\szyperownia\21.02.2023\CSV_reader\CSV_reader\bin\Debug\net6.0\CSV_reader.deps.json
+C:\dev\szyperownia\21.02.2023\CSV_reader\CSV_reader\bin\Debug\net6.0\CSV_reader.runtimeconfig.json
+C:\dev\szyperownia\21.02.2023\CSV_reader\CSV_reader\bin\Debug\net6.0\CSV_reader.dll
+C:\dev\szyperownia\21.02.2023\CSV_reader\CSV_reader\bin\Debug\net6.0\CSV_reader.pdb
+C:\dev\szyperownia\21.02.2023\CSV_reader\CSV_reader\obj\Debug\net6.0\CSV_reader.dll
+C:\dev\szyperownia\21.02.2023\CSV_reader\CSV_reader\obj\Debug\net6.0\refint\CSV_reader.dll
+C:\dev\szyperownia\21.02.2023\CSV_reader\CSV_reader\obj\Debug\net6.0\CSV_reader.pdb
+C:\dev\szyperownia\21.02.2023\CSV_reader\CSV_reader\obj\Debug\net6.0\CSV_reader.genruntimeconfig.cache
+C:\dev\szyperownia\21.02.2023\CSV_reader\CSV_reader\obj\Debug\net6.0\ref\CSV_reader.dll
